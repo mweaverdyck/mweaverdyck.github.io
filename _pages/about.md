@@ -1,22 +1,24 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 'Previously Miriam E. Weaverdyck' #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: headshot202204.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>mweaverdyck@ucla.edu</p>
+    <p>mweaverdyck[at]ucla[dot]edu</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a sixth-year graduate student in the [UCLA Computational Social neuroscience Lab](http://csnlab.org/). I attended Bethel College, KS, graduating with B.A.s in Psychology and Mathematical Sciences. After college, I spent several years working outside of academia and in various academic labs. I take a multi-faceted approach, including functional magnetic resonance image (fMRI), behavioral tasks, and social network analysis, to study how the broader contexts of the perceiver and target shape social thought and behavior. Currently, her work focuses on how people acquire, neurally encode, and then use social network information.
+I am currently a graduate student in the [UCLA Computational Social neuroscience Lab](http://csnlab.org/). I attended [Bethel College, KS](https://www.bethelks.edu/) for undergrad, graduating with B.A.s in Psychology and Mathematical Sciences. After college, I worked as a lab manager for the [Rutgers Laboratory for Developmental Language Studies](https://sites.rutgers.edu/language-studies/), then the [Princeton Social Neuroscience Lab](https://psnlab.princeton.edu/).
+
+Broadly, I study how the broader contexts of the perceiver and target shape social thought and behavior. I implement a multi-faceted approach in my research, including functional magnetic resonance image (fMRI), novel behavioral tasks, and social network analysis. Currently, her work focuses on how people acquire, neurally encode, and then use social network information.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
