@@ -14,7 +14,7 @@ Please refer to my [Google Scholar Profile](https://scholar.google.com/citations
 
 
 {%- for y in page.years %}
-  <h2 class="year; color: var(--global-text-color)">{{y}}</h2>
+  <h2 class="year">{{y}}</h2>
   {% bibliography -f papers -q @*[year={{y}}]* %}
 {% endfor %}
 
