@@ -35,23 +35,25 @@
       institution: University of California, Los Angeles, CA
       year: 2017-2023
       description:
-        - Computational Social Neuroscience Lab (http://csnlab.org/)
+        <a href="http://csnlab.org/">Computational Social Neuroscience Lab</a>
 
     - title: Research Specialist
       institution: Princeton University, Princeton, NJ
       year: 2015-2017
       description:
-        - Princeton Social Neuroscience Lab (https://psnlab.princeton.edu/)
+        <a href="https://psnlab.princeton.edu/">Princeton Social Neuroscience Lab</a>
 
     - title: Lab Coordinator
       institution: Rutgers University, New Brunswick, NJ
       year: 2014-2015
       description:
-        - Laboratory for Developmental Language Studies (https://sites.rutgers.edu/language-studies/)
+        <a href="https://sites.rutgers.edu/language-studies/">Laboratory for Developmental Language Studies</a>
 
     - title: Undergraduate Student Researcher
       institution: Bethel College, North Newton, KS
       year: 2009-2013
+      description:
+        <a href="https://www.bethelks.edu/academics/areas-study/psychology">Psychology Department</a>
 #
 # - title: Open Source Projects
 #   type: time_table
