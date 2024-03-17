@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Logos
-permalink: /logos/
+permalink: /projects/
 description: designed by Miriam
 nav: true
 nav_order: 4
