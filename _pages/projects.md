@@ -3,7 +3,7 @@ layout: page
 title: Logos
 permalink: /projects/
 description: designed by Miriam
-nav: true
+nav: false
 nav_order: 4
 display_categories: [labs]
 horizontal: false
