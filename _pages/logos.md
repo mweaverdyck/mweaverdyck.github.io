@@ -5,12 +5,12 @@ permalink: /logos/
 description: Lab logos designed by Miriam Schwyck
 nav: true
 nav_order: 4
-display_categories: [Labs]
+display_categories: [Social Neuroscience Labs]
 horizontal: false
 ---
 
 <!-- pages/logos.md -->
-<div class="logos">
+<div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
