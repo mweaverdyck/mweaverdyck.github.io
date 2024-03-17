@@ -4,7 +4,7 @@ title: The Social Connection Lab
 description: PI Elisa Baek
 img: assets/img/socolab/1.jpg
 importance: 1
-category: Labs
+category: Social Neuroscience Labs
 ---
 
 I helped Dr. Elisa Baek design her lab logo in 2023. You can find more about her work at [www.socolab.org](https://www.socolab.org/).
