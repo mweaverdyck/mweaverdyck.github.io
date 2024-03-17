@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Social Connection Lab at USC
+description: PI Elisa Baek
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: labs
 ---
 
 Every project has a beautiful feature showcase page.
