@@ -4,7 +4,7 @@ title: Castrellon Lab
 description: PI Jaime Castrellon
 img: assets/img/castrellonlab/1.jpg
 importance: 2
-category: labs
+category: lab logos
 ---
 
 Below are the logos I designed for Dr. Jaime Castrellon's lab the Castrellon Lab at UCLA in 2024.

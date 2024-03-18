@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Logos
+title: Graphics
 permalink: /projects/
 description: designed by Miriam
 nav: false
 nav_order: 4
-display_categories: [labs]
+display_categories: [figures, lab logos]
 horizontal: false
 ---
 

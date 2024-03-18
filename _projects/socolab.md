@@ -4,7 +4,7 @@ title: SoCoLab
 description: PI Elisa Baek
 img: assets/img/socolab/1.jpg
 importance: 1
-category: labs
+category: lab logos
 ---
 
 I designed the logos for Dr. Elisa Baek's lab The Social Connection Lab at USC in 2023. You can find more about her work at [www.socolab.org](https://www.socolab.org/).
