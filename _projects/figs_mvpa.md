@@ -9,6 +9,16 @@ category: figures
 
 I created these figures to explain concepts related to multivoxel pattern analysis (MVPA). For more information on MVPA, checkout my introduction to MVPA for social neuroscientists at [https://academic.oup.com/scan/article/15/4/487/5824852](https://academic.oup.com/scan/article/15/4/487/5824852).
 
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/figs/mvpa/searchlight.png" title="Searchlight" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Searchlight procedure
+</div>
+
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/figs/mvpa/cross-validation.png" title="Cross-validation procedure" class="img-fluid rounded z-depth-1" %}
