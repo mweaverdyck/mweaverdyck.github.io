@@ -23,15 +23,12 @@ I created these figures to explain concepts related to multivoxel pattern analys
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/figs/mvpa/cross-validation.png" title="Cross-validation procedure" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-        Procedural diagram for cross-validation.
-    </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/figs/mvpa/MachineLearning_withinsub_LeaveOneRunOut.png" title="Machine learning example" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="caption">
-        An example of within-subject machine learning using leave-one-run-out.
-    </div>
+</div>
+<div class="caption">
+    Left: Procedural diagram for cross-validation. Right: An example of within-subject machine learning using leave-one-run-out.
 </div>
 
 Below are examples of classification algorithms.
