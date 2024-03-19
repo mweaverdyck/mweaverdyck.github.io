@@ -10,4 +10,4 @@ _site
 Gemfile.lock
 vendor
 _bibliography/papers_old.bib
-assets/img/image_proportions.pptx
+assets/img/*image_proportions.pptx
