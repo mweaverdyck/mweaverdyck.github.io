@@ -2,10 +2,10 @@
 layout: page
 title: Graphics
 permalink: /projects/
-description: designed by Miriam
-nav: false
+description: designed and created by Miriam
+nav: true
 nav_order: 4
-display_categories: [figures, lab logos]
+display_categories: [figures] #lab logos
 horizontal: false
 ---
 
