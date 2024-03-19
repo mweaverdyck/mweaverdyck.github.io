@@ -13,7 +13,7 @@ category: figures
     </div>
 </div>
 <div class="caption">
-    Poster presented at Society for Personality and Social Psychology conference in 2024. View the final article related to Study 1 [here](https://journals.sagepub.com/doi/epub/10.1177/01461672221140269).
+    Poster presented at Society for Personality and Social Psychology conference in 2024. View the final article related to Study 1 at https://journals.sagepub.com/doi/epub/10.1177/01461672221140269.
 </div>
 
 <div class="row">
@@ -22,7 +22,7 @@ category: figures
     </div>
 </div>
 <div class="caption">
-    Poster presented at Society for Personality and Social Psychology conference in 2019. View the final article [here](https://journals.sagepub.com/doi/epub/10.1177/01461672221140269).
+    Poster presented at Society for Personality and Social Psychology conference in 2019. View the final article at https://journals.sagepub.com/doi/epub/10.1177/01461672221140269.
 </div>
 
 
@@ -32,7 +32,7 @@ category: figures
     </div>
 </div>
 <div class="caption">
-    Poster presented at Social and Affective Neuroscience conference in 2019. View the final article [here] (https://academic.oup.com/scan/advance-article-pdf/doi/10.1093/scan/nsac059/47588892/nsac059.pdf).
+    Poster presented at Social and Affective Neuroscience conference in 2019. View the final article at https://academic.oup.com/scan/advance-article-pdf/doi/10.1093/scan/nsac059/47588892/nsac059.pdf.
 </div>
 
 
@@ -42,5 +42,5 @@ category: figures
     </div>
 </div>
 <div class="caption">
-    Poster presented at Social and Affective Neuroscience conference in 2018. View the final article [here](https://www.sciencedirect.com/science/article/pii/S1053811921005358).
+    Poster presented at Social and Affective Neuroscience conference in 2018. View the final article at https://www.sciencedirect.com/science/article/pii/S1053811921005358.
 </div>
