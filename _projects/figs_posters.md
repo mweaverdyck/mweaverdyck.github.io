@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Posters
-description: Conference posters
+description: Selected conference posters
 img: assets/img/figs/posters/cover.png
 importance: 5
 category: figures
