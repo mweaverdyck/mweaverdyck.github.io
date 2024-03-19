@@ -19,6 +19,8 @@ I created these figures to explain concepts related to multivoxel pattern analys
     Searchlight procedure
 </div>
 
+
+ 
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/figs/mvpa/cross-validation.png" title="Cross-validation procedure" class="img-fluid rounded z-depth-1" %}
@@ -30,6 +32,7 @@ I created these figures to explain concepts related to multivoxel pattern analys
 <div class="caption">
     Left: Procedural diagram for cross-validation. Right: An example of within-subject machine learning using leave-one-run-out.
 </div>
+
 
 Below are examples of classification algorithms.
 
@@ -44,6 +47,8 @@ Below are examples of classification algorithms.
 <div class="caption">
     Left: Support vector machines. Right: Linear discriminant analysis.
 </div>
+
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/figs/mvpa/nearest-neighbor.png" title="Nearest neighbor" class="img-fluid rounded z-depth-1" %}
@@ -57,4 +62,15 @@ Below are examples of classification algorithms.
 </div>
 <div class="caption">
     Examples of nearest neighbor classification algorithms.
+</div>
+
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/figs/mvpa/rsa.png" title="RSA" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Representational Similarity Analysis from [this article](https://static1.squarespace.com/static/56400790e4b01aca66bb9831/t/645c8b33005e3e5f9bd9d6dc/1683786550241/Schwyck_2023_SCAN.pdf).
 </div>
