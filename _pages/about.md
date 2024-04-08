@@ -6,7 +6,7 @@ subtitle: 'Previously Miriam E. Weaverdyck' #<a href='#'>Affiliations</a>. Addre
 
 profile:
   align: right
-  image: headshot202204.jpg
+  image: headshot202207.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>mes2388[at]columbia[dot]edu</p>
