@@ -5,7 +5,7 @@ permalink: /projects/
 description: designed and created by Miriam
 nav: false
 nav_order: 4
-display_categories: [figures] #lab logos
+display_categories: [figures, lab logos]
 horizontal: false
 ---
 
