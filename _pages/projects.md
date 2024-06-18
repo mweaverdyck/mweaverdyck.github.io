@@ -3,7 +3,7 @@ layout: page
 title: Graphics
 permalink: /projects/
 description: designed and created by Miriam
-nav: false
+nav: true
 nav_order: 4
 display_categories: [figures, lab logos]
 horizontal: false
