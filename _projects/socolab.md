@@ -7,7 +7,7 @@ importance: 1
 category: lab logos
 ---
 
-I designed the logos for Dr. Elisa Baek's lab The Social Connection Lab at USC in 2023. You can find more about her work at [www.socolab.org](https://www.socolab.org/).
+I designed the logos for Dr. Elisa Baek's lab, The Social Connection Lab, at USC in 2023. You can find out more about Dr. Baek's work at [www.socolab.org](https://www.socolab.org/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

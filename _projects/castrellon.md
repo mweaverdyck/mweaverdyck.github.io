@@ -7,7 +7,7 @@ importance: 2
 category: lab logos
 ---
 
-Below are the logos I designed for Dr. Jaime Castrellon's lab the Castrellon Lab at UCLA in 2024.
+Below are the logos I designed for Dr. Jaime Castrellon's lab, The Castrellon Lab, at UCLA in 2024. You can find out more about Dr. Castrellon's work at [tinyurl.com/castrellonlab](https://jcastrel.github.io/).
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
