@@ -234,14 +234,14 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 scholar:
 
   last_name: ["Weaverdyck", "Schwyck", "Schwyck*"]
-  first_name: ["Miriam E.", "Miriam", "M.E.", "Miriam E"]
+  first_name: ["Miriam E.", "Miriam", "M.E.", "Miriam E", "Miriam"]
 
   style: apa
   locale: en
 
   source: /_bibliography/
-  bibliography: papers.bib
-  bibliography_template: bib
+  bibliography: papers.rtf #papers.bib
+  bibliography_template: rtf #bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
   # See https://github.com/alshedivat/al-folio/issues/357.
